@@ -1,4 +1,24 @@
-# Code for Neurips2025_TV-Rec
+<div align=center>
+<h1>TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation</h1>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yehjin-shin/TV-Rec)
+ [![arXiv](https://img.shields.io/badge/arXiv-2510.25259-b31b1b.svg)](https://arxiv.org/abs/2510.25259)
+
+<div>
+    <a href="https://yehjin-shin.github.io/" target="_blank"><b>Yehjin Shin</b></a><sup>1</sup>,
+      <a href="https://www.jeongwhanchoi.com" target="_blank"><b>Jeongwhan Choi</b></a><sup>2*</sup>,
+      <a href="https://scholar.google.com/citations?user=4GpvarsAAAAJ&hl=en" target="_blank">Seojin Kim</a><sup>1</sup>,
+      <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a><sup>3</sup>,
+    <div>
+     <sup>1</sup>KAIST
+    </div>
+</div>
+</div>
+
+---
+
+This is the official PyTorch implementation of the NeurIPS 2025 paper "TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation".
+
 ## 1. Install conda environments 
 
 ```
