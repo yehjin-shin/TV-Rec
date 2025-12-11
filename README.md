@@ -94,3 +94,16 @@ python main.py  --data_name LastFM \
                 --load_model TVRec_LastFM_best \
                 --do_eval
 ```
+
+
+## Citation
+If you find our work useful, please cite:
+```bibtex
+@inproceedings{shin2025tvrec,
+  title={{TV}-Rec: Time-Variant Convolutional Filter for Sequential Recommendation},
+  author={Yehjin Shin and Jeongwhan Choi and Seojin Kim and Noseong Park},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025},
+  url={https://openreview.net/forum?id=cWEssTIwG5}
+}
+```
