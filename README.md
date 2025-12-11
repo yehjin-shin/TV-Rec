@@ -107,3 +107,10 @@ If you find our work useful, please cite:
   url={https://openreview.net/forum?id=cWEssTIwG5}
 }
 ```
+
+---
+
+<div align="center">
+<p>If you have any questions, please open an issue or contact us at <a href="mailto:yehjin.shin@kaist.ac.kr">yehjin.shin@kaist.ac.kr</a>
+<p>⭐ Star this repository if you find it helpful!</p>
+</div>
